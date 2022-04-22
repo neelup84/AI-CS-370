@@ -13,5 +13,5 @@ While Q-learning NNs store all possible actions and states in a Q-table, deep Q-
 
 **Addressing the the questions given in the CS 370 week 8 **
 1. developed the code for reinforcement learning. By utilizing Keras and Tensorflow, I developed the pathfinding solution. In addition to GameExperience.py and TreasureMaze.py, I received the setup code for the game.
-2. Researchers use technology to solve complex problems in new ways. It is my job to think technically when solving problems. To solve problems efficiently, I use the resources available to me and the knowledge I have to hand in.
+2. Researchers use technology to solve complex problems in new ways. It is my job to think technically when solving problems. To solve problems efficiently, I use the resources provided in the class.
 3. One of the most critical ethical concerns I learned about in this course is hidden bias in artificial intelligence. AI systems can be biased and harm society without our being aware of it. Therefore, I must be aware of my biases as a machine learning developer and attempt to design systems that are not inherently biased.
