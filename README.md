@@ -3,8 +3,9 @@
 **Treasure hunt game:**
 The TreasureHuntGame is an AI-based pathfinding game. First, the player must find the treasure in the game before the AI pirate agent does. Then, using a Q-learning algorithm, the pirate learns the best way to reach the treasure regardless of where he is on the map.
 
-**Tool used:** 
+**Tools used:** 
 Python's TensorFlow and Keras libraries are used to implement deep reinforcement learning and solve the pathfinding problem.
+jupyter note book used to run ipynb files
 
 **Explination on AI:**
 Artificial neural networks are used in machine learning. The project in question uses deep reinforcement learning with two neural networks. Markov decision processes involve states, actions, and rewards in reinforcement learning. The NNs, for example, predict future actions based on past actions which have granted certain rewards. The NNs determine which action offers the highest reward based on their processing of the environment. When the chosen action is performed, the NNs update their model weights to remember and improve.
